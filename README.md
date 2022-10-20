@@ -73,14 +73,4 @@ _To start with the Project run the following command in terminal
 
 ---
 
-### Medium Link
-
-
-
-### Google Drive Link
-
-
-
-
-### Netlify Link
 
